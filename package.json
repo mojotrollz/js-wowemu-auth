@@ -1,6 +1,6 @@
 {
   "name": "js-wowemu-auth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SRP implementation for WoW Server authentication in Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
