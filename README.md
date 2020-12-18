@@ -14,7 +14,7 @@ yarn add js-wowemu-auth
 ```ts
 import { register } from 'js-wowemu-auth'
 
-register('user', 'password')
+register('username', 'password')
 ```
 
 This will return
