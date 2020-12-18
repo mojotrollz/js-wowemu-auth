@@ -1,2 +1,2 @@
-# wowemu-auth
-SRP implementation for WoW Server authentification in Typescript
+# js-wowemu-auth
+SRP implementation for WoW Server authentication in Typescript
