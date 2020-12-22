@@ -1,6 +1,8 @@
 # js-wowemu-auth
 SRP implementation for WoW Server authentication in Typescript
 
+Impired by [the PHP version](https://github.com/Laizerox/php-wowemu-auth/)
+
 ## installation
 
 ```
